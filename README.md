@@ -26,4 +26,4 @@
 
 | 课程 | 仓库 | 简介 |
 | --- | --- | --- |
-| 高性能计算应用实践 | [HPCP-fall25](https://github.com/kuma-loong/HPCP-fall25) | 涵盖 Linux 与 C 编程、进程和线程、OpenMP、MPI 及矩阵乘法性能优化。 |
+| 高性能计算应用实践 | [25Fall-HPCP](https://github.com/kuma-loong/25Fall-HPCP) | 涵盖 Linux 与 C 编程、进程和线程、OpenMP、MPI 及矩阵乘法性能优化。 |
