@@ -19,6 +19,8 @@
 | 课程 | 仓库 | 简介 |
 | --- | --- | --- |
 | 机器学习 | [26Spring-ML-Lab](https://github.com/kuma-loong/26Spring-ML-Lab) | 2026 年春季机器学习课程的配套实验。 |
+| 数据结构与算法 | [26Spring-DSA-Lab](https://github.com/kuma-loong/26Spring-DSA-Lab) | 2026 年春季数据结构与算法课程的配套实验。 |
+| 软件构造 | [AircraftWar](https://github.com/kuma-loong/AircraftWar) | 使用 Java 与 Swing 开发飞机大战游戏，实践面向对象设计、设计模式、多线程和单元测试。 |
 
 ## 2025 年秋季
 
