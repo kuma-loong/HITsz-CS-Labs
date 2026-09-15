@@ -1,6 +1,6 @@
 # HITSZ CS Labs
 
-[kuma-loong](https://github.com/kuma-loong) 的哈尔滨工业大学（深圳）计算机课程实验索引，按学期汇总个人公开的课程实验与课程设计仓库。
+[kuma-loong](https://github.com/kuma-loong) 的哈尔滨工业大学（深圳）计算机课程实验仓库索引。
 
 ## 2026 年秋季
 
