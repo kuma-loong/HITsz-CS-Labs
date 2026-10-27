@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | 操作系统 | [26Fall-OS-Lab](https://github.com/kuma-loong/26Fall-OS-Lab) | 基于 xv6 的操作系统课程实验，涵盖 Unix 实用程序、进程与系统调用、锁及页表。 |
 | 密码学基础 | [26Fall-Cryptography-Lab](https://github.com/kuma-loong/26Fall-Cryptography-Lab) | 密码学基础课程实验，当前包含 AES 的 ECB 模式安全性分析、密文分组拼接与 CBC / GCM 防御对照。 |
+| 计算机网络 | [26Fall-CN-Lab](https://github.com/kuma-loong/26Fall-CN-Lab) | 计算机网络课程实验，包含离线实验指导书，实验实现与配置记录随课程进度补充。 |
 
 ## 2026 年夏季小学期
 
